@@ -1,9 +1,9 @@
 # 10th-web-study
 
 ## 🌲 브랜치 규칙
-- **브랜치 명** : `week00_닉네임_missionN`
-- **생성 방식**: 이전 미션 브랜치에서 파생하여 작업 내역을 누적합니다.
-  - (ex: `week01_Elric_mission1` → `week01_Elric_mission2` → `week01_Elric_mission3`)
+- **브랜치 명** : `해당 기능`
+- **생성 방식**: 이전 기능에 누적해서 브랜치 파기 
+  - (ex: `main` → `login` → `logout`)
 
 ---
 
